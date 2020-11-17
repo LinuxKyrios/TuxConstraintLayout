@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Tux Constraint Layout</string>
+    <string name="to_label">Odbiorca:</string>
+    <string name="email_hint">Podaj adres email</string>
+    <string name="subject_hint">Temat</string>
+    <string name="message_hint">Treść wiadomości dla Tuxa</string>
+    <string name="send_button">Wyślij wiadomość</string>
 </resources>
+<!--Strings created for layout elements-->
